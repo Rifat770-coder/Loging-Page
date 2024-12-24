@@ -1,0 +1,119 @@
+body{
+
+  font-family: "Radio Canada Big", sans-serif;
+  background-image: url(pic.avif);
+}
+.one{
+  width: 280px;
+  background-image: url(pic.avif);
+  border: 1px solid #ddddddb4;
+margin: 20px auto;
+padding: 5%;
+}
+
+.one a{
+ text-decoration: none;
+}
+h2{
+  text-align: center;
+  
+  
+}
+form{
+  text-align: center;
+margin-top: 10px;
+margin-bottom: -20px;
+
+}
+.one p{
+  text-align: center;
+  margin-top: 30px;
+  font-size: 15px;
+  margin-right: 20px;
+  color: #3498db;
+}
+form input{
+  display: block;
+margin-bottom: 10px;
+border-radius: 5px;
+padding: 5px;
+width: 235px;
+
+}
+.two input{
+  text-align: center;
+  padding: 10px 15px ;
+  width: 250px;
+  border-radius: 5px;
+margin-top: 15px;
+margin-left: -30px;
+background-color: #3498db;
+}
+
+.one .two #lo :hover{
+  background-color: tomato;
+  cursor:pointer;
+}
+.four p{
+  text-align: left;
+}
+.two p{
+  display: flex;
+  text-align: center;
+  margin-top: 10px;
+  width:250px;
+  font-size: 13px;
+  color:#221f1f;
+  margin-left: 30px;
+}
+.two{
+  margin-top: 10px;
+}
+.three input{
+  text-align: center;
+  padding: 10px 20px ;
+  width: 250px;
+  border-radius: 5px;
+margin-top: 15px;
+}
+
+
+.three #fb :hover{
+  background-color: tomato;
+  cursor:pointer;
+  
+}
+.three #gl :hover{
+  background-color: tomato;
+  cursor:pointer;
+}
+
+
+strong{
+  color:#3498db ;
+  margin-left: 5px;
+  
+}
+.three p{
+  color: #0e0d0d6c;
+}
+  .six{
+    background-color: #ffff;
+  }
+ .three #gl{
+ margin-top: -25px;
+ 
+}
+.three #fb input {
+  background-color:#3498db;
+  color:#ffff;
+  margin-top: -20px;
+  margin-bottom: 10px;
+}
+.three #gl input {
+  background-color:#FFC312;
+
+}
+#Rifat{
+  color: #fff;
+}
